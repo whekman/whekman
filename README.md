@@ -2,7 +2,7 @@
 
 Welcome to Willem Hekman's github page.
 
-Willem has a background in physics, educationb and scientific model development and is on a mission to "become" a knowledgeable software engineer and work professionally as such.
+Willem has a background in physics, education and (scientific) model development and is training to become a knowledgeable software engineer and work professionally as such.
 
 He is interested in systems design and currently studying computer science fundamentals to have a solid foundation before setting off on the job market.
 
