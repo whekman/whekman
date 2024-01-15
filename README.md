@@ -6,7 +6,7 @@ Willem has a background in physics, education and (scientific) model development
 
 He is interested in systems design and is currently studying CS fundamentals (also see his GH projects) to have a basic foundation in CS before venturing out on the job market.
 
-Willem's Hobbies: Reading (Spanish lit. till pop philosophy), cooking, (motor)cycle touring
+Willem's Hobbies: Reading (Spanish lit. till, kernel development, till pop philosophy), cooking, (motor)cycle touring
 
 <!--
 **whekman/whekman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
