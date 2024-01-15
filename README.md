@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to Willem Hekman's github page. Willem has a background in physics, educationb and scientific model development and is on a mission to "become" a knowledgeable software engineer.
+
 <!--
 **whekman/whekman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
