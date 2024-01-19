@@ -4,9 +4,7 @@ Welcome to Willem Hekman's github page.
 
 Willem has a background in physics, education and (scientific) model development and is training to become a knowledgeable software engineer and work professionally as such.
 
-He is interested in systems design and is currently studying CS fundamentals (also see his GH projects) to continue his career in IT.
-
-Currently Willem mostly writes in C and Python (see his GH projects). Given his background he is familiar with scientific (FORTRAN, R, Julia, sci-py) and web technologies (HTML/CSS, JavaScript, php, Django). He plans to become familiar with data engineering technologies (DBMSs as Postgresql, SQL, AirFlow, Apache Spark, AWS).
+He is interested in systems design and is currently studying CS fundamentals to get a foundation in IT; he aims to specialize in data engineering.
 
 Willem's Hobbies: Reading, cooking, (motor)cycle touring
 
