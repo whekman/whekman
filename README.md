@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-Welcome to Willem Hekman's github page.
-
-Willem has a background in physics, education and (scientific) model development and is training to become a knowledgeable software engineer and work professionally as such.
-
-He is interested in systems design and is currently studying CS fundamentals to get a foundation in IT; he aims to specialize in data engineering.
-
-Willem's Hobbies: Reading, cooking, (motor)cycle touring
+I am a software engineer with a quantum physics background with previous experience as a data scientist and scientific model developer. A course on computational physics (modelling gas and Ising lattices) got me hooked on Python which then led me to doing a theoretical Msc research in foundations of quantum mechanics. Coming from a scientific background I am interested in data, systems modelling and finding optimal solutions. After some years teaching physics I am looking forward to re-enter the tech industry and work with the latest data technologies such as AWS, Airflow, Snowflake and contribute to valuable insights and reliable, efficient architecture implementations and automation.
 
 <!--
 **whekman/whekman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
