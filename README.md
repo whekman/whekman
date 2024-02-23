@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am a software engineer with a quantum physics background with previous experience as a data scientist and scientific model developer.
-
-A course on computational physics (modelling gas and Ising lattices) got me hooked on Python which then led me to doing a theoretical Msc research in foundations of quantum mechanics.
+I am a software engineer with a quantum physics background with previous experience as a data scientist and scientific model developer/solution architect.
 
 Coming from a scientific background I am interested in data, systems modelling and finding optimal solutions.
+
 
 <!--
 **whekman/whekman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
