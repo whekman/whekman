@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - (quantum) physics background, previous experience as a data scientist and scientific model developer/solution architect.
-- currently keen to learn more about htmx/django to serve python-based tools
+- currently eager to learn more about htmx/django to serve python-based tools
 - reading "the linux programming interface" meanwhile writing the kilo text-editor in C
 - experience using C, C++, JS, HTML/CSS, Python, R, FORTRAN and probably I forgot a few - I mainly use Python and C; see my linkedIn page.
 - interested in collaborating on a <100 hour web project involving htmx/django/aws
