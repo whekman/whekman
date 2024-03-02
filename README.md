@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer with a quantum physics background with previous experience as a data scientist and scientific model developer/solution architect.
-
-Coming from a scientific background I am interested in data, systems modelling and finding optimal solutions.
-
+I am a software engineer with a quantum physics background and previous experience as a data scientist and scientific model developer/solution architect.
 
 <!--
 **whekman/whekman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
